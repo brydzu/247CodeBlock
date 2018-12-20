@@ -79,6 +79,8 @@ to contribute Just add your links here
 ## Podcasts
 
 - [Syntax.fm](https://syntax.fm/) - Wes Boss and Scott Tolinski
+- [React Podcast](http://reactpodcast.com) - podcas for React fans
+- [JavaScript Jabber](http://javascriptjabber.com/) - podcas about JS staff
 
 ## Design Resources
 
@@ -93,3 +95,8 @@ to contribute Just add your links here
 ## Add More Categories
 
 - [Web Designer Depot](https://www.webdesignerdepot.com/2018/09/the-freelancers-guide-to-paying-tax/) - The Freelancer's Guide to Paying Tax
+
+## Dev Tools/Resources
+- [Atom](http://atom.io) - free code editor with many functions and options
+- [Trello](https://trello.com) - online kanban tool
+
